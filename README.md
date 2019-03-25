@@ -1,4 +1,4 @@
-# 《重生之奶尊甲苯传》
+# Introduction
 
 * [Introduction](./)
 * [第一卷：重生往事](di-yi-juan-zhong-sheng-wang-shi/)
